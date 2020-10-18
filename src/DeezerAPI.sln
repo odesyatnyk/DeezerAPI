@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeezerAPI.Web", "DeezerAPI.Web\DeezerAPI.Web.csproj", "{FD2575FF-520F-4CF1-8254-DBDAE6F113AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeezerAPI.Tests", "DeezerAPI.Tests\DeezerAPI.Tests.csproj", "{F2C7EAE7-69AC-4574-AC9F-EFC4CA617153}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeezerAPI.Web.Tests", "DeezerAPI.Tests\DeezerAPI.Web.Tests.csproj", "{F2C7EAE7-69AC-4574-AC9F-EFC4CA617153}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

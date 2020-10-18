@@ -1,1 +1,1 @@
-﻿[assembly: System.Runtime.CompilerServices.InternalsVisibleTo("DeezerAPI.Tests")]
+﻿[assembly: System.Runtime.CompilerServices.InternalsVisibleTo("DeezerAPI.Web.Tests")]
